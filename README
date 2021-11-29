@@ -1,0 +1,9 @@
+1. Download this project home_expedition
+
+2. Go to Expedition.java folder
+
+3. Run following command to compile the file
+javac -cp ../../opencsv-3.8.jar Expedition.java
+
+4. Run following command to create the minerals.csv file under homework_expedition folder.
+java -cp ../../opencsv-3.8.jar Expedition.java

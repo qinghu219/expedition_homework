@@ -14,6 +14,7 @@ import com.opencsv.CSVWriter;
 
 
 public class Expedition {
+    // This is a small task
     private static final String inputFilePath = "../../expeditions.csv";
     private static final String outputFilePath = "../../minerals.csv";
 
